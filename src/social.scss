@@ -1,0 +1,19 @@
+.social-button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 16px auto;
+    border: 1px solid #444b5a;
+    border-radius: 5px;
+    opacity: 1;
+    height: 47px;
+    cursor: pointer;
+
+    img {
+        max-width: 100%;
+        height: auto;
+        vertical-align: top;
+        border: none;
+    }
+}
